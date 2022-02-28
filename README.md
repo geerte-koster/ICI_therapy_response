@@ -6,7 +6,7 @@ Repository containing code and files used to predict ICI therapy response of uro
   <br/>Python file to train random forest classifier and save valdiation performance
 
 2) [figures.py](figures.py)
-<br/>Python file to reproduce all figures from study.
+<br/>Python file to reproduce all figures from study
 
 3) [data_preprocessing.R](data_preprocessing.R)
 <br/>R file to preprocess data downloaded via IMvigor210CoreBiologies package of Mariathasan et al., 2018
