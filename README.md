@@ -8,9 +8,14 @@ Repository containing code and files used to predict ICI therapy response of uro
 2) [figures.py](figures.py)
 <br/>Python file to reproduce all figures from study.
 
+3) [data_preprocessing.R](data_preprocessing.R)
+<br/>R file to preprocess data downloaded via ... package of Mariathasan et al., 2018
+
 3) [input_files](input_files)
-<br/>Csv files containing various (combinations of) input features:
+<br/>Csv files containing various (combinations of) input features of which performance is described in Supplementary Table 2:
 - TMB
 - clincial features (including immune phenotypes)
 - gene expression values (reduced using gene signatures)
 
+4) [gene_signatures](gene_signatures)
+<br/> Files with gene expression values of genes from signatures derived from Mariathasan et al., 2018, Jiang et al., 2018 and Litchfield et al., 2021, all signatures are listed in Supplementary Table 4
