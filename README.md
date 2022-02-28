@@ -18,4 +18,4 @@ Repository containing code and files used to predict ICI therapy response of uro
 - gene expression values (reduced using gene signatures)
 
 4) [gene_signatures](gene_signatures)
-<br/> Files with gene expression values of genes from signatures derived from Mariathasan et al., 2018, Jiang et al., 2018 and Litchfield et al., 2021, all signatures are listed in Supplementary Table 4
+<br/> Files with gene expression values of genes from signatures derived from Mariathasan et al., 2018 (CTL_signature*.csv), Jiang et al., 2018 (TIDE*.csv) and Litchfield et al., 2021 (litt_genes.csv), all signatures are listed in Supplementary Table 4
