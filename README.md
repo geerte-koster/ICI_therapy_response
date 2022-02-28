@@ -9,7 +9,7 @@ Repository containing code and files used to predict ICI therapy response of uro
 <br/>Python file to reproduce all figures from study.
 
 3) [data_preprocessing.R](data_preprocessing.R)
-<br/>R file to preprocess data downloaded via ... package of Mariathasan et al., 2018
+<br/>R file to preprocess data downloaded via IMvigor210CoreBiologies package of Mariathasan et al., 2018
 
 3) [input_files](input_files)
 <br/>Csv files containing various (combinations of) input features of which performance is described in Supplementary Table 2:
