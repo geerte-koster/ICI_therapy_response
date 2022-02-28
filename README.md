@@ -2,7 +2,7 @@
 Repository containing code and files used to predict ICI therapy response of urothelial cancer patients
 
 ## Content
-1) [train_and_validate_RF.py](100_repetitions_clf.py)
+1) [train_and_validate_RF.py](train_and_validate_RF.py)
   <br/>Python file to train random forest classifier and save valdiation performance
 
 2) [figures.py](figures.py)
